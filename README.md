@@ -8,4 +8,4 @@ Cd into the directory and `$ bundle install` and `$ yarn install`
 
 Start the server with:
 
-`foreman start -f Procfile.dev`
+`$ foreman start -f Procfile.dev`
